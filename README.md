@@ -71,7 +71,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 
 
-### Etapa 1: Ideación de proyecto
+## Etapa 1: Ideación de proyecto
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
@@ -94,7 +94,7 @@ Este  proyecto es interesante porque ...
 
 
 
-### Etapa 2: Desarrollo / actividades realizadas
+## Etapa 2: Desarrollo / actividades realizadas
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
@@ -106,7 +106,7 @@ Este  proyecto es interesante porque ...
 
 
 
-### Etapa 3: Problemas identificados
+## Etapa 3: Problemas identificados
 
 (que consideras que no  funciona correctamente y por qué )
 
@@ -124,7 +124,7 @@ Este  proyecto es interesante porque ...
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
+**Artículos y blogs** 
 
 - Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
@@ -132,17 +132,18 @@ Este  proyecto es interesante porque ...
 
 * Musica:  
 * Imágenes:  
-* Tipografía
+* Tipografía: 
 
 **Herramientas utilizadas**
 
-- Hippani Animator 5.1
+- Godot Engine 4.x
 - 
 
-
-
 (imagen de la licencia, copiar y pegar aquí la correcta)
-
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2023
+* logos en https://creativecommons.org/mission/downloads/
+  
+  <img src="https://licensebuttons.net/l/by-nc-sa/3.0/nl/88x31.png" style="width: 80px"></small>
+
+Mayo 202X
