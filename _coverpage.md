@@ -12,11 +12,11 @@
 
 
 
-### Proyecto realizado por:
+### Proyecto realizado por: Míriam Morales Sánchez
 
-### Enlace a Itch.io: ____________
+### Enlace a Itch.io: (https://miriammmm.itch.io/el-mundo-de-pepo) 
 
-#### Facultad de Bellas Artes. Universidad de Granada, 202X
+#### Facultad de Bellas Artes. Universidad de Granada, 2026
 
 
 
