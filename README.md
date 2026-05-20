@@ -8,11 +8,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : El Mundo de Pepo
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos) 
+**Autor:**  Míriam Morales Sánchez
 
  [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
