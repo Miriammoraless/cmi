@@ -6,7 +6,7 @@
 
 
 <!---- Portada ----> 
-<img align="center" src="[WalkingGirl_front01.png](https://github.com/Miriammoraless/ElMundoDePepo/blob/master/portadaMoralesSanchezMiriam%20(1).jpg)" width="300" height=auto alt="Logotipo"/>
+<img align="center" src="(https://github.com/Miriammoraless/ElMundoDePepo/blob/master/portadaMoralesSanchezMiriam%20(1).jpg)" width="300" height=auto alt="Logotipo"/>
 
 
 
