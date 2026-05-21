@@ -1,4 +1,4 @@
-## (EL MUNDO DE PEPO)
+## EL MUNDO DE PEPO
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -10,15 +10,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : El Mundo de Pepo
 
-**Web:**   (url github.io)
+**Web:**   [(url github.io)](https://miriammoraless.github.io/ElMundoDePepo/)
 
 **Autor:**  Míriam Morales Sánchez
 
  [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto es una historia simple, donde se busca rescatar a una pequeña manzana. El protagonista Pepo, tras encontrar a Manzana Papá en un estado de descomposición, tiene como objetivo salvar al hijo de su amiga de las manos del malvado Pinto, un temible villano que come manzanas.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:** Juego / aventura.
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
@@ -26,7 +26,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Pc, Google Chrome.
 
 **Tamaño proyecto:** 14MB 
 
@@ -37,8 +37,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-- Twitter
-- Instagram
+
 
 
 ![girl](WalkingGirl_front01.png)
