@@ -18,7 +18,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resumen** : Este proyecto es una historia simple, donde se busca rescatar a una pequeña manzana. El protagonista Pepo, tras encontrar a Manzana Papá en un estado de descomposición, tiene como objetivo salvar al hijo de su amiga de las manos del malvado Pinto, un temible villano que come manzanas.
 
-**Estilo/género:** Juego / aventura.
+**Estilo/género:** Juego de aventura.
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
