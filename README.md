@@ -54,6 +54,12 @@ Luego planteé que el desrrollo del juego se diera de forma líenal, estando Pep
 
 ![Storyboard](https://github.com/Miriammoraless/ElMundoDePepo/blob/master/storyboard.jpg)
 
+En primer lugar, al iniciar el juego, aparece la animación principal, donde Pinto está cometiendo el secuestro del niño, tras haber devorado al padre. Tras esto, al iniciar la partida, el jugador se encontrará con la madre, quién le dará la misión de rescatar a su hijo. Tras pasar el árbol en el que se situaba la madre, encontrá al padre, quién yace en un estado de descomposición en el suelo.
+
+Posteriormente, aparcecerán unas plataformas, las cuáles, impedirán el paso. Para seguir avanzando hay que saltar por ellas, con cuidado de que los enemigos no toquen al jugador, ya que, de lo contrario, se reiniciará la partida. En todo momento la cámara del jugador se mantedrá con Pepo en una esquina, dicicultando así el juego. 
+
+Tras pasar esta situación, habrá otra plataforma donde estará Rigoberto. Este no se moverá, ni atacrá directamente al jugador pero emitirá algunos sonidos raros. Por último, al final del mapa, aparecerán más plataformas, la cuales llevarán directamente hasta Pinto y el niño. Para salvar a la manzana, Pinto propondrá unas adivinanzas. Esto llevará a dos finales, uno que tras fracasar las adivinazas, se comerá ñas manzanas, y otro, donde devolverá al niño. 
+
 ### 2.2. Esquema de navegación 
 
 
