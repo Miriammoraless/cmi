@@ -34,7 +34,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Fecha** : 28/05/2026
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** :
 
 - Github:Miriammoraless
 
@@ -46,11 +46,13 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
+Primero desarrollé los personajes, con un diseño simple, al igual que el resto del proyecto.
 
+![Personajes](https://github.com/Miriammoraless/ElMundoDePepo/blob/master/Personajes.jpg)
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+Luego planteé que el desrrollo del juego se diera de forma líenal, estando Pepo en la esquina izquierda todo el tiempo.
 
-
+![Storyboard](https://github.com/Miriammoraless/ElMundoDePepo/blob/master/storyboard.jpg)
 
 ### 2.2. Esquema de navegación 
 
