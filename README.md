@@ -20,27 +20,27 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:** Juego de aventura.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** :
 
-(insertar imágenes a resolucion de 100px alto)
+![manzana](https://github.com/Miriammoraless/ElMundoDePepo/blob/master/logotipo.png)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 1152x648px tamaño fijo.
 
 **Probado en:**   Pc, Google Chrome.
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 23MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 28/05/2026
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
+- Github:Miriammoraless
 
 
 
-![girl](WalkingGirl_front01.png)
+
 
 # 2. Memoria del proyecto 
 
