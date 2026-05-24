@@ -82,20 +82,23 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- Animal Crossing: la idea de un árbol con tres manzanas
+- Super Mario bross: La ide a de recatar de un enemigo final a alguien
+  
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque:
+- Tiene una estética cutre, la cuál, para mi lo hace ver divertido
+- Es una histora simple pero, contiene pequeñas cosas, como una aventura entre la Manzana Mamá y el protagonista Pepo
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a gente joven, ya que aunque tiene una estética infantil, no es muy recomendado para niños pequeños.
 
 
 
@@ -103,6 +106,7 @@ Este  proyecto es interesante porque ...
 
 ## Etapa 2: Desarrollo / actividades realizadas
 
+El desrrollo del juego se fué formando muy poco a poco. En un principio desarrollé una idea general y 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
 - Juego. 
@@ -131,20 +135,19 @@ Este  proyecto es interesante porque ...
 
 # 5 Referencias 
 
-**Artículos y blogs** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía: 
+* Musica: Desarrollada con ayuda de compañeras, exceto el sonido de los botones (https://pixabay.com/es/sound-effects/search/button-click/) 
+* Imágenes: Dibujos míos 
+* Tipografía: (Google Fonts)
 
 **Herramientas utilizadas**
 
 - Godot Engine 4.x
-- 
+- Illustrator
+- Affinity
+- Photoshop
 
 (imagen de la licencia, copiar y pegar aquí la correcta)
 https://creativecommons.org/licenses/?lang=es
