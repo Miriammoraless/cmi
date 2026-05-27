@@ -64,7 +64,7 @@ Tras pasar esta situación, habrá otra plataforma donde estará Rigoberto. Este
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![esquema](https://github.com/Miriammoraless/ElMundoDePepo/blob/master/esquema%20de%20navegaci%C3%B3n.jpg)
 
 
 
@@ -109,12 +109,13 @@ Este  proyecto es interesante porque:
 El desrrollo del juego se fué formando muy poco a poco. En un principio desarrollé una idea general y 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
-
+- Introducción y menú: Fue lo primero que desarrollé del proyecto, aunque la introducción era más simple en un principio. LA primera animación que realicé fue el personaje andando hacia la derecha, ya que no sabía como realizar lo que tenía en mente. Tras aprender como funcionaba mejor la animación de godot, hice la introducción actual del proyecto. Luego realicé la pantalla del menú, utilizando los elementos principales del juego. Además para darle más interés, hice que se pueda interactuar un poco con el personaje que aparece en pantalla, al pasar el ratón por encima del ojo lo cierra. También integré un fondo en movimeinto para que tenga dinamismo.
+- Juego: El juego consiste en rescatar a la manzana y para tener obstaculos hacia esta, decidí implementar un parkour junto con enemigos. Para hacer esto al personaje principal le integré gravedad para poder ir saltando por las plataformas. Los enemigos, son también bastante simples, los incluí en una plataforma y cuando detectan que la plataforma acaba se giran hacia la otra dirección.
+- video: Para la integración de video no tenía mucha idea, por lo que decidí hacer a Pepo en el mundo real. Hice un dibujo a papel y, en el escenario más parecido que tengo en mi casa al juego, hice que Pepo fuera atacado por mi gato. El vídeo lo decidí incluir en la pantalla de personajes de Pepo, ya que no tiene nada que ver con la historia principal y es algo que solo le sucede a Pepo
+- Personajes: para la galería del juego hice una muestra de los personajes que estrían integrados en el juego. A cada uno le puse una peueña descripción con alguna característica. Para diferenciar lo personajes buenos de los malos, a parte de leer la descripción, hice que los buenos tuvieran los ojos blancos por dentro y los malos con los ojos completamente negros, con la pupila completamente dilatada. 
+- Instrucciones y ayuda al usuario: las instrucciones del juego decidí implementarlas en la pantalla de cuando juegas, ya que implenmentandolas en las pantalla de ajustes, mucha gente no lo miraría, ya que yo cuando juego a algo no suelo mirar la configuración. Por lo tanto puse un poco de texto al principio a modo de tutorial.
+- Dialogos: los dialos han sido poco usados ya que no es un juego dedicado al dialogo. Lo he implementado para que de la misión principasl al jugador y para el enemigo final.
+- Música y sonido:
 
 
 ## Etapa 3: Problemas identificados
