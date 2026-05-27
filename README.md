@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : El Mundo de Pepo
 
-**Web:**   [(url github.io)]([https://miriammoraless.github.io/ElMundoDePepo/](https://miriammmm.itch.io/el-mundo-de-pepo))
+**Web:**   [(url github.io)](https://miriammmm.itch.io/el-mundo-de-pepo)
 
 **Autor:**  Míriam Morales Sánchez
 
