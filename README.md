@@ -48,11 +48,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 Primero desarrollé los personajes, con un diseño simple, al igual que el resto del proyecto.
 
-![Personajes](https://github.com/Miriammoraless/ElMundoDePepo/blob/master/Personajes.jpg)
+![Personajes](Personajes.jpg)
 
 Luego planteé que el desrrollo del juego se diera de forma líenal, estando Pepo en la esquina izquierda todo el tiempo.
 
-![Storyboard](https://github.com/Miriammoraless/ElMundoDePepo/blob/master/storyboard.jpg)
+![Storyboard](storyboard.jpg)
 
 En primer lugar, al iniciar el juego, aparece la animación principal, donde Pinto está cometiendo el secuestro del niño, tras haber devorado al padre. Tras esto, al iniciar la partida, el jugador se encontrará con la madre, quién le dará la misión de rescatar a su hijo. Tras pasar el árbol en el que se situaba la madre, encontrá al padre, quién yace en un estado de descomposición en el suelo.
 
@@ -64,7 +64,7 @@ Tras pasar esta situación, habrá otra plataforma donde estará Rigoberto. Este
 
 
 
-![esquema](https://github.com/Miriammoraless/ElMundoDePepo/blob/master/esquema%20de%20navegaci%C3%B3n.jpg)
+![esquema](esquema%20de%20navegaci%C3%B3n.jpg)
 
 
 
