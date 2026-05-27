@@ -14,7 +14,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Míriam Morales Sánchez
 
- [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
 **Resumen** : Este proyecto es una historia simple, donde se busca rescatar a una pequeña manzana. El protagonista Pepo, tras encontrar a Manzana Papá en un estado de descomposición, tiene como objetivo salvar al hijo de su amiga de las manos del malvado Pinto, un temible villano que come manzanas.
 
