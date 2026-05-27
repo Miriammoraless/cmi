@@ -22,7 +22,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Logotipo** :
 
-![manzana](https://github.com/Miriammoraless/ElMundoDePepo/blob/master/logotipo.png)
+![manzana](logotipo.png)
 
 **Resolución:** 1152x648px tamaño fijo.
 
