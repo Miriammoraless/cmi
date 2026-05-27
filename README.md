@@ -57,7 +57,7 @@ En primer lugar, al iniciar el juego, aparece la animación principal, donde Pin
 
 Posteriormente, aparcecerán unas plataformas, las cuáles, impedirán el paso. Para seguir avanzando hay que saltar por ellas, con cuidado de que los enemigos no toquen al jugador, ya que, de lo contrario, se reiniciará la partida. En todo momento la cámara del jugador se mantedrá con Pepo en una esquina, dicicultando así el juego. 
 
-Tras pasar esta situación, habrá otra plataforma donde estará Rigoberto. Este no se moverá, ni atacrá directamente al jugador pero emitirá algunos sonidos raros. Por último, al final del mapa, aparecerán más plataformas, la cuales llevarán directamente hasta Pinto y el niño. Para salvar a la manzana, Pinto propondrá unas adivinanzas. Esto llevará a dos finales, uno que tras fracasar las adivinazas, se comerá ñas manzanas, y otro, donde devolverá al niño. 
+Tras pasar esta situación, habrá otra plataforma donde estará Rigoberto. Este no se moverá, ni atacrá directamente al jugador pero emitirá algunos sonidos raros. Por último, al final del mapa, aparecerán más plataformas, la cuales llevarán directamente hasta Pinto y el niño. Para salvar a la manzana, Pinto propondrá unas adivinanzas. Esto llevará a dos finales, uno que tras fracasar las adivinazas, se comerá a la manzana, y otro, donde devolverá al niño. 
 
 ### 2.2. Esquema de navegación 
 
@@ -92,6 +92,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 Este  proyecto es interesante porque:
 - Tiene una estética cutre, la cuál, para mi lo hace ver divertido
 - Es una histora simple pero, contiene pequeñas cosas, como una aventura entre la Manzana Mamá y el protagonista Pepo
+- La  música y los sonidos hace que se le añada ciertpo interés al juego, ya que son graciosos y un poco sin sentido, siguiendo la estética del juego
 
 
 
@@ -105,27 +106,27 @@ Este  proyecto es interesante porque:
 
 ## Etapa 2: Desarrollo / actividades realizadas
 
-El desrrollo del juego se fué formando muy poco a poco. En un principio desarrollé una idea general y 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
+El desarrollo del juego se fué formando muy poco a poco. En un principio desarrollé una idea general, con un menú y los personajes y luego seguí con la partida de juego.
 
-- Introducción y menú: Fue lo primero que desarrollé del proyecto, aunque la introducción era más simple en un principio. LA primera animación que realicé fue el personaje andando hacia la derecha, ya que no sabía como realizar lo que tenía en mente. Tras aprender como funcionaba mejor la animación de godot, hice la introducción actual del proyecto. Luego realicé la pantalla del menú, utilizando los elementos principales del juego. Además para darle más interés, hice que se pueda interactuar un poco con el personaje que aparece en pantalla, al pasar el ratón por encima del ojo lo cierra. También integré un fondo en movimeinto para que tenga dinamismo.
-- Juego: El juego consiste en rescatar a la manzana y para tener obstaculos hacia esta, decidí implementar un parkour junto con enemigos. Para hacer esto al personaje principal le integré gravedad para poder ir saltando por las plataformas. Los enemigos, son también bastante simples, los incluí en una plataforma y cuando detectan que la plataforma acaba se giran hacia la otra dirección.
-- video: Para la integración de video no tenía mucha idea, por lo que decidí hacer a Pepo en el mundo real. Hice un dibujo a papel y, en el escenario más parecido que tengo en mi casa al juego, hice que Pepo fuera atacado por mi gato. El vídeo lo decidí incluir en la pantalla de personajes de Pepo, ya que no tiene nada que ver con la historia principal y es algo que solo le sucede a Pepo
-- Personajes: para la galería del juego hice una muestra de los personajes que estrían integrados en el juego. A cada uno le puse una peueña descripción con alguna característica. Para diferenciar lo personajes buenos de los malos, a parte de leer la descripción, hice que los buenos tuvieran los ojos blancos por dentro y los malos con los ojos completamente negros, con la pupila completamente dilatada. 
-- Instrucciones y ayuda al usuario: las instrucciones del juego decidí implementarlas en la pantalla de cuando juegas, ya que implenmentandolas en las pantalla de ajustes, mucha gente no lo miraría, ya que yo cuando juego a algo no suelo mirar la configuración. Por lo tanto puse un poco de texto al principio a modo de tutorial.
+- Introducción y menú: Fue lo primero que desarrollé del proyecto, aunque la introducción era más simple en un principio. La primera animación que realicé fue el personaje andando hacia la derecha, ya que no sabía como realizar lo que tenía en mente. Tras aprender como funcionaba mejor la animación de godot, hice la introducción actual del proyecto. Luego realicé la pantalla del menú, utilizando los elementos principales del juego. Además para darle más interés, hice que se pueda interactuar un poco con el personaje que aparece en pantalla, al pasar el ratón por encima cierra el ojo. También integré un fondo en movimeinto para que tenga dinamismo.
+- Juego: El juego consiste en rescatar a la manzana y para tener obstaculos para llegar esta, decidí implementar un parkour junto con enemigos. Para hacer esto al personaje principal le integré gravedad para poder ir saltando por las plataformas. Los enemigos, son también bastante simples, los incluí en una plataforma y cuando detectan que la plataforma acaba se giran hacia la otra dirección.
+- video: Para la integración de video no tenía mucha idea, por lo que decidí hacer a Pepo en el mundo real. Hice un dibujo a papel y, en el escenario más parecido que tengo en mi casa al juego, hice que Pepo fuera atacado por mi gato. El vídeo lo decidí incluir en la pantalla de personajes de Pepo, ya que no tiene nada que ver con la historia principal y es algo que solo le sucede a Pepo.
+- Personajes: para la galería del juego hice una muestra de los personajes que estarían integrados en el juego. A cada uno le puse una pequeña descripción con alguna que otra característica. Para diferenciar los personajes buenos de los malos, hice que los buenos tuvieran los ojos blancos por dentro, y los malos los ojos completamente negros, con la pupila completamente dilatada. 
+- Instrucciones y ayuda al usuario: las instrucciones del juego decidí implementarlas en la pantalla de juego, ya que implenmentandolas en las pantalla de ajustes, mucha gente no lo miraría, ya que yo cuando juego a algo no suelo mirar la configuración. Por lo tanto puse un poco de texto al principio a modo de tutorial. Pero luego incluí una configurarión del sonido arriba a la derecha. 
 - Dialogos: los dialos han sido poco usados ya que no es un juego dedicado al dialogo. Lo he implementado para que de la misión principasl al jugador y para el enemigo final.
-- Música y sonido:
+- Música y sonido: Para la música buscaba algo simple y con un claro bajo presupuesto. Por lo que la grabé con una compañera en la calle, con una flauta y una armónica. Para los sonidos de los personajes hice lo mismo, siendo mis compañeras quienes les dan voz a estos. 
 
 
 ## Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+El principal problema que tuve durante el proyecto, due la detección del área de la mazana muerta al jugador. El área, detectaba antes de tiempo al jugador y se activaba cuando no debía, estuve semanas con este problema cuando era muy fácil de resolver. Simpleme había que mover el área de la manzana ya que estaba detectando la del suelo.
+Otro problema ha sido que quería poner un sonido cuando el personaje moría, pero, no lo he conseguido. Al añadirlo al script o el personaje dejaba de morir o sonaba siempre al inicio de la escena. Al final abandoné la idea de implementar esto ya que quedaba poco tiempo para la entrega y no quería calentame mucho la cabeza. En caso de seguir avanzando buscaría una solución. 
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+En general creo que ha dado un resultado mejor de lo que me esperaba y ha quedado con la estética cutre que yo quería. Sin embargo, si el proyecto siguiera hacia delante añadiría más juego, nieveles y más dificultades. También cambiaría los finales a una animación más completa e implementaría más sonidos al juego.
 
 
 
@@ -140,7 +141,7 @@ El desrrollo del juego se fué formando muy poco a poco. En un principio desarro
 
 * Musica: Desarrollada con ayuda de compañeras, exceto el sonido de los botones (https://pixabay.com/es/sound-effects/search/button-click/) 
 * Imágenes: Dibujos míos 
-* Tipografía: (Google Fonts)
+* Tipografía: RobotoMono y Lacquer-Regular(Google Fonts)
 
 **Herramientas utilizadas**
 
@@ -156,4 +157,4 @@ https://creativecommons.org/licenses/?lang=es
   
   <img src="https://licensebuttons.net/l/by-nc-sa/3.0/nl/88x31.png" style="width: 80px"></small>
 
-Mayo 202X
+Mayo 2026
