@@ -150,11 +150,8 @@ En general creo que ha dado un resultado mejor de lo que me esperaba y ha quedad
 - Affinity
 - Photoshop
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
-https://creativecommons.org/licenses/?lang=es
+licencias: https://creativecommons.org/licenses/?lang=es
 
-* logos en https://creativecommons.org/mission/downloads/
-  
   <img src="https://licensebuttons.net/l/by-nc-sa/3.0/nl/88x31.png" style="width: 80px"></small>
 
 Mayo 2026
