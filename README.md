@@ -46,7 +46,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
-Primero desarrollé los personajes, con un diseño simple, al igual que el resto del proyecto.
+Primero desarrollé los personajes, con un diseño simple.
 
 ![Personajes](Personajes.jpg)
 
